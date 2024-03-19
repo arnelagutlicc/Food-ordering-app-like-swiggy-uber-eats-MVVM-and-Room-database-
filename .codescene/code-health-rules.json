@@ -52,14 +52,6 @@
                "value":9
             },
             {
-               "name":"function_embedded_content_lines_of_code_alert",
-               "value":"-"
-            },
-            {
-               "name":"function_embedded_content_lines_of_code_warning",
-               "value":"-"
-            },
-            {
                "name":"function_lines_of_code_alert",
                "value":500
             },
