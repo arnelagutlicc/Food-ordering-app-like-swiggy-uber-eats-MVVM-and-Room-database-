@@ -24,3 +24,12 @@ public class ExampleInstrumentedTest {
         assertEquals("com.marty.yummy", appContext.getPackageName());
     }
 }
+public class ExampleInstrumentedTest1 {
+    @Test
+    public void useAppContext() {
+        // Context of the app under test.
+        Context appContext = InstrumentationRegistry.getTargetContext();
+
+        assertEquals("com.marty.yummy", appContext.getPackageName());
+    }
+}
